@@ -1,0 +1,82 @@
+body
+{
+  margin: 0px 0px;
+}
+.container_12
+{
+  background-color:#ccffeb;
+}
+header
+{
+  font-family: 'Cabin Sketch',cursive;
+  background-color: cyan;
+  font-size: 35px;
+  font-size: 35px;
+  height: 70px;
+}
+.ser1,.ser2
+{
+  background-color: pink;
+}
+.ser3
+{
+  background-color: blue;
+}
+header p
+ {
+  margin-top: 10px;
+  padding-top: 20px;
+}
+nav
+{
+  height: 60px;
+  background-color: #ff80ff;
+}
+nav li
+{
+  display: inline;
+  padding-top:20px ;
+  margin-right: 5px;
+  float: right;
+}
+.img3, .img1, .img2{margin-top: 20px;margin-bottom: 20px;height: 300px;}
+.img1{background-color:white ;}
+.img2{background-color: #ffccff;}
+.img3{margin-right: 0;
+
+  background-color: #aa80ff;
+}
+p
+{
+  text-align: center;
+  font-size: 30px;
+}
+.heroimg{
+  margin-top: 0px;
+  background-color: orange;
+  margin-right: 0;
+  margin-left: 0;
+  margin-bottom: 20px;
+}
+.img3 p{
+padding-top: 10px;
+  margin-top: 20px;
+  text-align: center;
+  font-size: 17px;
+}
+
+.img3 a{
+  text-decoration: none;
+}
+
+footer
+{
+  height: 50px;
+  clear: both;
+}
+footer i
+{
+  color:blue;
+  float:right;
+  padding-right: 10px;
+}
